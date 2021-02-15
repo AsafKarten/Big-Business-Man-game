@@ -16,6 +16,21 @@ import Uprofile from './classComponents/Uprofile';
 import SendMessage from './classComponents/SendMessage';
 import Messages from './classComponents/Messages';
 
+
+
+
+
+class App extends React.Component {
+  constructor(props) {
+    super(props);
+    this.state = {
+      users: [],
+      loggedUser: '',
+      counter: 0,
+      counterB: 0,
+      friend: ''
+    }
+  }
   //Functions
   //f1. Register New User
   addUser = (user) => {
