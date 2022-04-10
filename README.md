@@ -1,3 +1,42 @@
+Big Business man game is a React single page web application.
+i made this project as an assingment for react course i took during my studies
+this project only contain the client sinde and all the user input is stored in react state.
+
+Login page
+![image](https://user-images.githubusercontent.com/70157456/162615335-1fa23f2d-f482-4239-b6d0-1ca4425d1b6a.png)
+
+registration page 
+![image](https://user-images.githubusercontent.com/70157456/162615318-63434851-59e7-40b6-8237-57b368f9c845.png)
+
+User profile
+![image](https://user-images.githubusercontent.com/70157456/162615369-fc49dec1-58c8-4135-a066-c6ced58bba6c.png)
+
+comunity page
+![image](https://user-images.githubusercontent.com/70157456/162615392-f3c7afe7-26c2-47f3-88cf-c168620dfe0b.png)
+
+other player profile
+![image](https://user-images.githubusercontent.com/70157456/162615418-7ad366e0-ff54-4704-8f44-d55e2de3defb.png)
+
+send message
+![image](https://user-images.githubusercontent.com/70157456/162615442-6af26d70-2347-4d40-b0d3-4a482d0a3fe6.png)
+
+Reply message
+![image](https://user-images.githubusercontent.com/70157456/162615653-391e6d9f-470c-42b9-9b8c-27aeb9e50d73.png)
+
+Create new business
+![image](https://user-images.githubusercontent.com/70157456/162615520-14873ed2-1a2f-4f55-af51-808016dfd40f.png)
+
+manage your business
+![image](https://user-images.githubusercontent.com/70157456/162615555-38613ca8-3138-4766-bf7d-73e136d5deb0.png)
+
+Sell business
+![image](https://user-images.githubusercontent.com/70157456/162615579-e6a9d18d-bcf4-467d-90b3-0454a82feee4.png)
+
+Buy business from other players
+![image](https://user-images.githubusercontent.com/70157456/162615630-bf7f5961-8cfe-4d34-bb71-119c7ce12d07.png)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
