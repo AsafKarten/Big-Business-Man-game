@@ -1,6 +1,6 @@
 Big Business man game is a React single page web application.
 i made this project as an assingment for react course i took during my studies
-this project only contain the client sinde and all the user input is stored in react state.
+this project only contain the client side and all the user input is stored in react state.
 
 Login page
 ![image](https://user-images.githubusercontent.com/70157456/162615335-1fa23f2d-f482-4239-b6d0-1ca4425d1b6a.png)
